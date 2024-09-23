@@ -1,1 +1,1 @@
-# COSC 499 Templates
+# Team 7 - Transactions Querying
